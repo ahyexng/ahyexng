@@ -40,8 +40,6 @@ Here are some ideas to get you started:
 
 [![Ahyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahyexng&show_icons=true&icon_color=ff69b4&title_color=ff69b4&bg_color=ffe4e1)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahyexng&layout=compact&title_color=ff69b4)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
