@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=ffe4e1&text=AHYEONG&fontSize=90&height=300&fontColor=ffb6c1)
+
 
 <h3>🛠️ Tech Stack 🛠️</h3>
 
