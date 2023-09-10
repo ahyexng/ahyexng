@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 
-<h3>📖 Tech Stack 📖</h3>
+<h2>📖 Tech Stack 📖</h2>
 
 <p>Teach that I've used at least once</p>
 
